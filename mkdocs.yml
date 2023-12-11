@@ -1,5 +1,13 @@
+<<<<<<< HEAD
 site_name: My package
 theme:
   name: readthedocs
   highlightjs: true
 repo_url: https://github.com/dsapalidis/mypackage/tree/main
+=======
+site_name: My package
+theme:
+  name: readthedocs
+  highlightjs: true
+repo_url: https://github.com/dsapalidis/mypackage/tree/main
+>>>>>>> 022a6571e5bf9ce34b3190140acb06061541d3fb
