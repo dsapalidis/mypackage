@@ -2,7 +2,7 @@
 <img src="https://github.com/dsapalidis/mypackage/blob/Sapd-Tutorial/Sapaempa.svg" width="400">
 </h1><br>
 
-Mypackage is the Empa data analysis tool for SAXS
+mypackage_sapd is the Empa data analysis tool for SAXS
 
 - **Website:** https://www.empa.ch/web/s499
 - **Bug reports:** https://github.com/dsapalidis/mypackage/tree/Sapd-Tutorial 
@@ -16,17 +16,17 @@ Installation
 
 Can be easily installed by using:
 
-    python -c "pip install mypackage"
+    python -c "pip install mmypackage_sapd"
 
 Testing
 
-Mypackage requires 'pytest'.  Test can be run after installation with:
+mypackage_sapd requires 'pytest'.  Test can be run after installation with:
 
     python -c "pip install pytest"
 
 Code of conduct
 
-Mypackage is open source project developed by D.Sapalidis. 
+mypackage_sapd is open source project developed by D.Sapalidis. 
 
 Acknowledgements
 

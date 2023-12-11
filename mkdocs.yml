@@ -1,4 +1,4 @@
-site_name: My package
+site_name: mypackage_sapd
 theme:
   name: readthedocs
   highlightjs: true
