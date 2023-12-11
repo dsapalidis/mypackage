@@ -12,9 +12,16 @@ It provides
 -Sophisticated graphs and solutions for experimental data analysis
 -Theoretical prediction of scattering patterns
 
-Testing:
+Installation
+
+Can be easily installed by using:
+
+    python -c "pip install mypackage"
+
+Testing
 
 Mypackage requires 'pytest'.  Test can be run after installation with:
+
     python -c "pip install pytest"
 
 Code of conduct
