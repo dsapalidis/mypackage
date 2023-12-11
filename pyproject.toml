@@ -16,7 +16,7 @@ requires-python = ">=3.9"
 
 dependencies = [
     "httpx",
-    "gitgethub>4.0.0",
+    "gidgethub>4.0.0",
 ]
 
 [project.optional-dependencies]
