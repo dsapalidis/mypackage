@@ -15,7 +15,7 @@ It provides
 Testing:
 
 Mypackage requires 'pytest'.  Test can be run after installation with:
-    anaconda -c "pip install pytest"
+    python -c "pip install pytest"
 
 Code of conduct
 
