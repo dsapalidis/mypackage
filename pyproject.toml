@@ -8,14 +8,12 @@ version = "0.1.0"
 license = {file = "LICENSE.txt"}
 
 description = "My first package"
-computing in Python"
 authors = [{name = "Sapalidis et al."}]
 maintainers = [
     {name = "NumPy Developers", email="dsapalidis@gmail.com"},
 ]
 requires-python = ">=3.9"
 
-[project]
 dependencies = [
     "httpx",
     "gitgethub>4.0.0",
