@@ -5,7 +5,7 @@ build-backend = "flit_core.buildapi"
 [project]
 name = "mypackage"
 version = "0.2.0"
-license = {file = "LICENSE.txt"}
+license = {file = "LICENCE.txt"}
 
 description = "My first package"
 authors = [{name = "Sapalidis et al."}]
