@@ -1,7 +1,7 @@
 name: Continuous Integration
 
 on: push
-
+jobs:
   tests:
     name: Test Suite
     runs-on: ubuntu-latest

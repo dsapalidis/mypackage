@@ -5,7 +5,7 @@
 mypackage_sapd is the Empa data analysis tool for SAXS
 
 - **Website:** https://www.empa.ch/web/s499
-- **Bug reports:** https://github.com/dsapalidis/mypackage/tree/Sapd-Tutorial 
+- **Bug reports:** https://github.com/dsapalidis/mypackage/tree/Sapd-Tutorial
 
 It provides
 
@@ -26,7 +26,7 @@ mypackage_sapd requires 'pytest'.  Test can be run after installation with:
 
 Code of conduct
 
-mypackage_sapd is open source project developed by D.Sapalidis. 
+mypackage_sapd is open source project developed by D.Sapalidis.
 
 Acknowledgements
 
